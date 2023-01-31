@@ -15,8 +15,8 @@ summary: "Management of the gym pass and personal training"
 ---
 
 <div class="text-center p-4">
-  <img width="400px" src="../img/projectIMG/gym-manager/gym-manager1.jpg" >
-  <img width="400px" src="../img/projectIMG/gym-manager/gym-manager2.jpg" >
+  <img width="400px" src="../img/gym-manager1.jpg" >
+  <img width="400px" src="../img/gym-manager2.jpg" >
 </div>
 <br><br>
 
@@ -35,7 +35,7 @@ Used Stacks:
 <br><br>
 
 <div class="text-center p-4">
-  <img width="500px" src="../img/projectIMG/gym-manager/gym-manager-diagram.jpg" >
+  <img width="500px" src="../img/gym-manager-diagram.jpg" >
 </div>
 
 <br><br><br>
