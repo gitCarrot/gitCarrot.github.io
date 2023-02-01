@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/gym-logo.png
-title: "Gym Management"
+title: "Gym Manager"
 date: 2023-01-18
 published: true
 labels:
