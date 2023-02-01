@@ -23,6 +23,12 @@ Springboot's JPA was used to create and implement connections between various en
 <br>
 The UI was created by referring to some code in the bootstrap.
 
+Used Stacks:
+  - Spring Boot(gradle)
+  - JPA
+  - MySql
+  - BootStrap
+
 
 <div class="text-center p-4">
   <img width="500px" src="../img/complexboard.jpg" >
