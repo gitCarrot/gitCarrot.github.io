@@ -2,13 +2,17 @@
 layout: project
 type: project
 image: img/grade.jpg
-title: "Grade evaluation manager"
-date: 2023-01-17
+title: "Recommend Service for pharmacy"
+date: 2023-01-09
 published: true
 labels:
-  - JAVA
-  - OOP
-summary: "JAVA grade-evaluation manager"
+  - Spring Boot
+  - Spring Retry
+  - JPA
+  - Redis
+  - BootStrap
+  - Docker
+summary: ""
 ---
 
 <div class="text-center p-4">
@@ -17,10 +21,24 @@ summary: "JAVA grade-evaluation manager"
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square 
+It is a spring boot project for pharmacy recommendation service by utilizing external API and public data. The user enters the address, and recommends the pharmacy closest to the input address. Only pharmacies within a specified radius are recommended using the formula for obtaining the shortest distance between two points in a spherical surface. The external API currently uses Korea's Kakao Address Search API, but it will be replaced by Google Address Search API, and public data will also be changed to Hawaiian data. Since the pharmacy domain data is not large, the caching function of redis will not be very helpful, but the performance was improved by caching the part that inquires pharmacy data in database and returning the result value after calculating the distance in every request.
 
-Here is some code that illustrates how we read values from the line sensors:
+Function implemented
+- Address retrieval using external api.
+- Find the distance between the two latitude coordinates with the haversine formula.
+- Improve performances by caching infrequently updated data by redis
+- Use map api to show directions with nearby pharmacy information.
+
+
+Used Stacks
+  - Spring Boot
+  - Spring Retry
+  - JPA
+  - Redis
+  - BootStrap
+  - Docker
 
 
 
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+
+
