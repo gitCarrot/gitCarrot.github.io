@@ -22,13 +22,20 @@ It is a spring board project where you can discuss with each other by posting po
 Springboot's JPA was used to create and implement connections between various entities. The basic functions are creating and deleting posts, hashtag posts, comments, and replies to comments. The login function service distinguishes authors with unique id. A post is an entity with a title, author, and text content, and all comments, post creation time, and modification time are recorded on the server.
 <br>
 The UI was created by referring to some code in the bootstrap.
+<br>
 
+Function Implemented:
+ - Posting and modifying articles on the discussion board
+ - Comments on the articles
+ - Reply on the comments
+ - Log in for multiple users
+<br>
 Used Stacks:
   - Spring Boot(gradle)
   - JPA
   - MySql
   - BootStrap
-
+<br>
 
 <div class="text-center p-4">
   <img width="500px" src="../img/complexboard.jpg" >
@@ -36,4 +43,4 @@ Used Stacks:
 
 <br><br><br>
 
-Repo Url : 
+Repo Url : [Discussion Board Project](https://github.com/gitCarrot/Complex-Forum-Board)
