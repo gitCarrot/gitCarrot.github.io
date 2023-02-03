@@ -26,6 +26,13 @@ The Gym manager project is a spring batch-based project. The reason for using sp
 Design which steps to configure the job through jobrepository in the spring batch. It is a function related to the pass required when guests start or use the gym, an alarm sending function for new events or announcements, a deduction of personal training pass through asynchronous processing, and a statistical data reporter generation function for members' information. Also use docker-compose as MySql container.
 <br>
 
+Function Implemented:
+  - Message for new events or announcements on the gym
+  - Managing gym pass and the tickets for personal training
+  - statistical data reporter generator handling huge data
+  - managing payments (update soon)
+
+
 Used Stacks:
 - Spring Boot 2.7.3
 - Spring Batch
