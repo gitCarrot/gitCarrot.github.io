@@ -11,8 +11,8 @@ labels:
   - CSS
   - BootStrap
 ---
-<img width="300px" class="rounded float-start pe-4" src="../img/obs1.jpeg">
-<img width="300px" class="rounded float-start pe-4" src="../img/obs2.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/framework1.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/framework2.jpg">
 
 <br><br><br><br><br><br><br>
 
