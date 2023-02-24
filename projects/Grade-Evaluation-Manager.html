@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Recommend Service for pharmacy | Honggun Jeon | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/gitCarrot.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Honggun Jeon | Professional Portfolio">
+    <meta property="og:url" content="https://gitCarrot.github.io/projects/Grade-Evaluation-Manager.html">
+    <meta property="og:title" content="Recommend Service for pharmacy | Honggun Jeon | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/gitCarrot.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/bitter.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Recommend Service for pharmacy | Honggun Jeon | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Honggun Jeon</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Recommend Service for pharmacy</h1>
+ <div class="text-center p-4">
+  <img width="400px" src="../img/shortestPath.jpg" class="img-thumbnail" />
+  <img width="400px" src="../img/pharmacy.jpg" class="img-thumbnail" />
+</div>
+
+<p>It is a spring boot project for pharmacy recommendation service by utilizing external API and public data. The user enters the address, and recommends the pharmacy closest to the input address. Only pharmacies within a specified radius are recommended using the formula for obtaining the shortest distance between two points in a spherical surface. The external API currently uses Korea’s Kakao Address Search API, but it will be replaced by Google Address Search API, and public data will also be changed to Hawaiian data. Since the pharmacy domain data is not large, the caching function of redis will not be very helpful, but the performance was improved by caching the part that inquires pharmacy data in database and returning the result value after calculating the distance in every request.</p>
+
+<p>Function implemented</p>
+<ul>
+  <li>Address retrieval using external api.</li>
+  <li>Find the distance between the two latitude coordinates with the haversine formula.</li>
+  <li>Improve performances by caching infrequently updated data by redis</li>
+  <li>Use map api to show directions with nearby pharmacy information.</li>
+</ul>
+
+<p>Used Stacks</p>
+<ul>
+  <li>Spring Boot</li>
+  <li>Spring Retry</li>
+  <li>JPA</li>
+  <li>Redis</li>
+  <li>BootStrap</li>
+  <li>Docker</li>
+</ul>
+
+<p><br /><br /><br />
+Repo URL : update soon</p>
+
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>

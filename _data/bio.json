@@ -1,0 +1,58 @@
+{
+  "basics": {
+    "name": "Honggun Jeon",
+    "label": "Student",
+    "picture": "https://github.com/gitCarrot.png",
+    "email": "hjeon@hawaii.edu",
+    "phone": "808-302-4546",
+    "website": "https://gitCarrot.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii.
+    Focused on the backend service using spring boot. I expect to graduate in Spring, 2024.",
+    "location": { "address": "2563 Dole St", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "gitCarrot", "url": "http://github.com/gitCarrot" },
+      { "network": "linkedin", "username": "Honggun_Jeon", "url": "http://www.linkedin.com/in/honggun-jeon-ics/" }
+    ]
+  },
+  "interests": [
+    { "name": "Competitve Programming" },
+    { "name": "Spring Boot (JPA, Batch)" },
+    { "name": "AI/Math" },
+    { "name": "3D Graphics" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": ["C++", "Java", "Javascript", "Python", "C++", "Spring Boot" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "WindowOS", "Ubuntu", "Git/GitHub"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Summer, 2024)",
+      "studyType": "B.S.",
+      "startDate": "2021-08-01",
+      "endDate": "2024-05-10",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    
+  ],
+  "volunteer": [
+    
+  ],
+  "awards": [
+    
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
