@@ -7,11 +7,7 @@ labels:
   - Software Engineering
   - Meteor
 ---
-
-<br><br><br><br><br><br><br>
-
-
-Title: A Simple Web App for Easy Meetups
+## A Simple Web App for Easy Meetups
 <br><br>
 
 ## Overview:
