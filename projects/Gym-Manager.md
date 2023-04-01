@@ -47,4 +47,4 @@ Used Stacks:
 
 <br><br><br>
 
-Repo Url : [Gym-manager-batch](https://github.com/gitCarrot/Gym-manager-batch)
+Repo Url : [Gym-manager-batch](https://github.com/gitCarrot/gym-manager)
