@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/CP_logo.png
+image: img/social-media.jpg
 title: "Scalable Social Media Platform"
 date: 2023-2-1
 published: true
@@ -16,9 +16,9 @@ labels:
 summary: "Scalable Social Media Platform using Spring Boot, JWT, Redis, and Kafka"
 ---
 
-<div class="text-center p-4">
+<!-- <div class="text-center p-4">
   <img width="400px" src="../img/reddit.png" >
-</div>
+</div> -->
 <br><br>
 
 Abstract:
@@ -48,4 +48,4 @@ The proposed social media platform demonstrates a scalable and efficient solutio
 
 <br><br><br>
 
-Repo Url : [Discussion Board Project](https://github.com/gitCarrot/Complex-Forum-Board)
+Repo Url : [Social Media Project](https://github.com/gitCarrot/Social-Media-Project)
