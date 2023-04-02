@@ -33,7 +33,7 @@ The application uses Spring Boot Security and JWT for user registration and auth
 Core Features
 The platform offers a range of social media functionalities, including:
 
- - 2.1. Post Creation, Editing, and Deletion: Users can create, edit, and delete their own posts.
+ ## - 2.1. Post Creation, Editing, and Deletion: Users can create, edit, and delete their own posts. (Progressing)
  - 2.2. Feed Display: A feed system that displays the latest posts from users in a user's network.
  - 2.3. Likes, Comments, and Notifications: Users can interact with posts by liking and commenting, and receive notifications for these actions.
 
