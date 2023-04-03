@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/gym-logo.png
 title: "Gym Manager"
-date: 2023-01-18
+date: 2022-06-10
 published: true
 labels:
   - Spring Boot(gradle)
