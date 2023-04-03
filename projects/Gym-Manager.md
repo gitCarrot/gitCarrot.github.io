@@ -29,6 +29,7 @@ Design which steps to configure the job through jobrepository in the spring batc
 Function Implemented:
   - Message for new events or announcements on the gym
   - Managing gym pass and the tickets for personal training
+  - ## Bulky Pass using bulk processing (Working on) ##
   - statistical data reporter generator handling huge data
   - managing payments (update soon)
 
