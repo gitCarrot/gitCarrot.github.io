@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "To Build Good Design Pattern"
+title: "Building design pattern with blocks"
 # All dates must be YYYY-MM-DD format!
 date: 2023-04-27
 published: true
