@@ -15,14 +15,14 @@ summary: "Manoa Link is an innovative web platform designed to bring students, j
 <br><br>
 
 # Introduction
-</br></br>
+<br><br>
 <div class="text-center" width= 800px>
 <div class="text-center p-4">
   <img width="1000px" src="../img/firstpage.png" >
   <img width="1000px" src="../img/firstpage2.png" >
 </div>
   
- </br></br>
+ <br><br>
 
 Manoa Link is an innovative web platform designed to bring students, job seekers, and companies together, simplifying the process of networking, career exploration, and industry event attendance. It offers tailored interfaces for students and companies, making it easier for users to connect, build relationships, and grow professionally.
 
