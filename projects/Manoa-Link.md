@@ -16,7 +16,13 @@ summary: "Manoa Link is an innovative web platform designed to bring students, j
 
 ## Introduction
 
-<div class="text-center p-4">
+<style>
+.myImg{
+	text-align:center;
+}
+</style>
+
+<div class="myImg p-4">
   <img width="400px" src="../img/firstpage.png" >
   <img width="400px" src="../img/firstpage2.png" >
 </div>
