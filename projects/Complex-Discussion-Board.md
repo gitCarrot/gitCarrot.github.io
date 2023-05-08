@@ -4,7 +4,7 @@ type: project
 image: img/CP_logo.png
 title: "Complex Discussion Board"
 date: 2022-11-15
-published: true
+published: false
 labels:
   - Spring Boot(gradle)
   - JPA
