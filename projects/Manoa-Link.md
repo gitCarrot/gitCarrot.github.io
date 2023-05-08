@@ -14,7 +14,7 @@ summary: "Manoa Link is an innovative web platform designed to bring students, j
 ---
 <br><br>
 
-## Introduction
+# Introduction
 
 <div class="myImg p-4">
   <img width="1000px" src="../img/firstpage.png" >
