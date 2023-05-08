@@ -40,12 +40,16 @@ Manoa Link has three user roles: students, company users, and admins. Each role 
   <br><br>
 
 ## 1. User-friendly Registration
+  
 Manoa Link provides an easy registration process for students/job seekers (hirees) and organizations, ensuring a seamless onboarding experience.
 <br>
 
 ## 2. Tailored Company and Student Views
+  
 The platform offers separate interfaces for companies and students, allowing them to manage listings, events, and applicants, or explore job opportunities and attend industry events, respectively.
+  
 <br>
+  
 ## 3. Comprehensive Company Listings
 Students can search through extensive company listings, filter by tags, and save their favorite organizations for future reference.
 <br>
@@ -77,7 +81,9 @@ Allows students to follow/unfollow companies, view company websites, and access 
   <img width="1000px" src="../img/student_company_list.png" >
 </div>
 <br>
+  
 ## Job List
+  
 <br>
 Provides details on available positions and allows students to apply for jobs.
 <br><br>
