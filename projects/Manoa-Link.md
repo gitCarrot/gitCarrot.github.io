@@ -15,8 +15,8 @@ summary: "Manoa Link is an innovative web platform designed to bring students, j
 <br><br>
 
 # Introduction
-
-<div class="myImg p-4">
+<div class="text-center" width= 800px>
+<div class="text-center p-4">
   <img width="1000px" src="../img/firstpage.png" >
   <img width="1000px" src="../img/firstpage2.png" >
 </div>
@@ -113,4 +113,5 @@ Conclusion
 
 Manoa Link is a comprehensive platform that simplifies the process of connecting students and companies, streamlining job searching and event attendance. With tailored features and pages for each user role, Manoa Link fosters growth and creates meaningful connections, paving the way for successful careers and thriving organizations.
 
+</div>
 Repo Url : [Manoa Link](https://github.com/uhmanoalink/manoa-link)
