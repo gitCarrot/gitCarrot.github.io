@@ -60,7 +60,7 @@ Displays upcoming events, saved jobs, and suggested company listings for student
 
 ## Company List
 Allows students to follow/unfollow companies, view company websites, and access relevant information.
-<br><br>
+</br></br>
 <div class="text-center p-4">
   <img width="1000px" src="../img/student_company_list.png" >
 </div>
@@ -82,7 +82,7 @@ Showcases upcoming and past events, with filtering options and the ability to sa
 ## Dashboard
 Allows companies to manage event and job schedules.
 <div class="text-center p-4">
-  <img width="1000px" src="../img/company_dashboard.png.png" >
+  <img width="1000px" src="../img/company_dashboard.png" >
 </div>
 
 ## Event Management
@@ -94,11 +94,13 @@ Enables companies to add, edit, or remove events.
   <img width="1000px" src="../img/company_add_event.png" >
    <img width="1000px" src="../img/company_edit_event.png" >
 </div>
+
 ## Job Management
 Provides tools for companies to create, update, or delete job listings.
 <div class="text-center p-4">
   <img width="1000px" src="../img/company_manage_list.png" >
 </div>
+
 # Admin Pages
 
 ## Dashboard
