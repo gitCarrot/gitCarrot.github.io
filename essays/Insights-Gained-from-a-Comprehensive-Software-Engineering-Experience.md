@@ -8,25 +8,32 @@ published: true
 labels:
   - Learning
 ---
-<img width="300px" class="rounded float-start pe-4" src="../img/running.jpg">
-
 # Insights Gained from a Comprehensive Software Engineering Experience
 <br>
 Throughout my journey in this software engineering course, I have gained a wealth of knowledge and hands-on experience that has not only honed my web application development skills but also provided valuable insights into the broader field of software engineering. In this reflective piece, I will discuss my experiences with Agile Project Management, Design Patterns, and Ethics in Software Engineering during the course and our team project, Manoa Link. Additionally, I will explore how these concepts can be applied to other software engineering contexts, showcasing the versatility and adaptability of the skills I have acquired.
 
 ## Agile Project Management and Issue Driven Project Management
+<div class="text-center p-4">
+  <img width="1000px" src="../img/github.png" >
+</div>
 <br>
 A significant aspect of the course was the exploration of Agile Project Management (APM) and Issue Driven Project Management (IDPM), both employed in our team project, Manoa Link. APM is a flexible, iterative approach to software development that promotes collaboration, customer feedback, and adaptive planning. IDPM, a subset of APM, breaks work into smaller tasks or issues, which can be assigned to individual team members, streamlining progress tracking and addressing roadblocks promptly.
 
 Using GitHub to manage issues in the Manoa Link project, we successfully merged code from different team members without conflicts and conducted code reviews to ensure a stable and high-quality result. This experience underscored the value of APM and IDPM in managing software projects effectively. I am now confident in my ability to apply these methodologies to other software domains, such as desktop applications, mobile apps, or even non-software projects.
 
 ## Scalable project with Design Patterns
+<div class="text-center p-4">
+  <img width="1000px" src="../img/design-patttern.jpg" >
+</div>
 <br>
 Incorporating design patterns in the Manoa Link project proved vital in ensuring code scalability and maintainability. We utilized the Model-View-Controller (MVC) design pattern with advanced modern react pattern, which separated the code into three distinct parts: the model, responsible for data management; the view, presenting data to the user; and the controller, handling user input, updating the model, and navigating the page based on the user’s role. This structured approach allowed for more accessible maintenance and updates to the platform over time.
 
 Furthermore, we implemented the Singleton design pattern to avoid duplicated code in the tags used for filtering events and companies. By applying these design patterns, we improved the efficiency and reduced the risk of bugs in our project. This experience has demonstrated the value of design patterns in software engineering and their applicability across various domains for more efficient, scalable, and maintainable solutions.
 
 ## Ethics in Software Engineering
+<div class="text-center p-4">
+  <img width="1000px" src="../img/face.png" >
+</div>
 <br>
 Engaging in ethics discussions about software engineering, particularly focusing on facial recognition technology, has been enlightening. These conversations have highlighted the importance of considering the potential consequences and societal implications of the software we create, regardless of the domain.
 
