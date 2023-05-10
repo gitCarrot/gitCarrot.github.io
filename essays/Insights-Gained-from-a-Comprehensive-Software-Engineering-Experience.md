@@ -13,7 +13,10 @@ labels:
 Throughout my journey in this software engineering course, I have gained a wealth of knowledge and hands-on experience that has not only honed my web application development skills but also provided valuable insights into the broader field of software engineering. In this reflective piece, I will discuss my experiences with Agile Project Management, Design Patterns, Ethics in Software Engineering, IntelliJ IDE, and ESLint during the course and our team project, Manoa Link. Additionally, I will explore how these concepts can be applied to other software engineering contexts, showcasing the versatility and adaptability of the skills I have acquired.
 
 ## Agile Project Management and Issue Driven Project Management
+
+
 <div class="text-center p-4">
+  <img width="800px" src="../img/manoaLink.png" >
   <img width="800px" src="../img/github.png" >
 </div>
 <br>
