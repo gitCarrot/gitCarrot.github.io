@@ -16,8 +16,8 @@ Throughout my journey in this software engineering course, I have gained a wealt
 
 
 <div class="text-center p-4">
-  <img width="800px" src="../img/manoaLink.png" >
-  <img width="800px" src="../img/github.png" >
+  <img width="500px" src="../img/manoaLink.png" >
+  <img width="500px" src="../img/github.png" >
 </div>
 <br>
 A significant aspect of the course was the exploration of Agile Project Management (APM) and Issue Driven Project Management (IDPM), both employed in our team project, Manoa Link. APM is a flexible, iterative approach to software development that promotes collaboration, customer feedback, and adaptive planning. IDPM, a subset of APM, breaks work into smaller tasks or issues, which can be assigned to individual team members, streamlining progress tracking and addressing roadblocks promptly.
