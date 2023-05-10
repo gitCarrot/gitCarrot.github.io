@@ -14,7 +14,7 @@ Throughout my journey in this software engineering course, I have gained a wealt
 
 ## Agile Project Management and Issue Driven Project Management
 <div class="text-center p-4">
-  <img width="1000px" src="../img/github.png" >
+  <img width="800px" src="../img/github.png" >
 </div>
 <br>
 A significant aspect of the course was the exploration of Agile Project Management (APM) and Issue Driven Project Management (IDPM), both employed in our team project, Manoa Link. APM is a flexible, iterative approach to software development that promotes collaboration, customer feedback, and adaptive planning. IDPM, a subset of APM, breaks work into smaller tasks or issues, which can be assigned to individual team members, streamlining progress tracking and addressing roadblocks promptly.
@@ -23,7 +23,7 @@ Using GitHub to manage issues in the Manoa Link project, we successfully merged 
 
 ## Scalable project with Design Patterns
 <div class="text-center p-4">
-  <img width="1000px" src="../img/design-pattern.jpg" >
+  <img width="800px" src="../img/design-pattern.jpg" >
 </div>
 <br>
 Incorporating design patterns in the Manoa Link project proved vital in ensuring code scalability and maintainability. We utilized the Model-View-Controller (MVC) design pattern with advanced modern react pattern, which separated the code into three distinct parts: the model, responsible for data management; the view, presenting data to the user; and the controller, handling user input, updating the model, and navigating the page based on the user’s role. This structured approach allowed for more accessible maintenance and updates to the platform over time.
@@ -32,7 +32,7 @@ Furthermore, we implemented the Singleton design pattern to avoid duplicated cod
 
 ## Ethics in Software Engineering
 <div class="text-center p-4">
-  <img width="1000px" src="../img/face.png" >
+  <img width="800px" src="../img/face.png" >
 </div>
 <br>
 Engaging in ethics discussions about software engineering, particularly focusing on facial recognition technology, has been enlightening. These conversations have highlighted the importance of considering the potential consequences and societal implications of the software we create, regardless of the domain.
