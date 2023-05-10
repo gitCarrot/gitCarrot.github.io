@@ -23,7 +23,7 @@ Using GitHub to manage issues in the Manoa Link project, we successfully merged 
 
 ## Intellij with eslint
 <div class="text-center p-4">
-  <img width="800px" src="../img/intellij.png" >
+  <img width="800px" src="../img/intellj.png" >
 </div>
 <br>
 In this course, I learned to use the IntelliJ IDE for the team project, which greatly enhanced my productivity and efficiency. The IntelliJ IDE offered a range of powerful features, including code completion, refactoring tools, and seamless integration with version control systems like Git. This integrated development environment streamlined my workflow, enabling me to focus on writing high-quality code.
