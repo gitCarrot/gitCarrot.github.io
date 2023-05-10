@@ -23,7 +23,7 @@ Using GitHub to manage issues in the Manoa Link project, we successfully merged 
 
 ## Scalable project with Design Patterns
 <div class="text-center p-4">
-  <img width="1000px" src="../img/design-patttern.jpg" >
+  <img width="1000px" src="../img/design-pattern.jpg" >
 </div>
 <br>
 Incorporating design patterns in the Manoa Link project proved vital in ensuring code scalability and maintainability. We utilized the Model-View-Controller (MVC) design pattern with advanced modern react pattern, which separated the code into three distinct parts: the model, responsible for data management; the view, presenting data to the user; and the controller, handling user input, updating the model, and navigating the page based on the user’s role. This structured approach allowed for more accessible maintenance and updates to the platform over time.
