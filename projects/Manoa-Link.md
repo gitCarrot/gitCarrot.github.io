@@ -17,7 +17,9 @@ summary: "Manoa Link is an innovative web platform designed to bring students, j
 # Manoa Link Team Project
 
 Github Repo Url : [Github](https://github.com/uhmanoalink/manoa-link)
+
 Website Introduction Url : [Project Introduction Website](https://uhmanoalink.github.io/)
+
 Website Url: [Manoa Link](https://github.com/uhmanoalink/manoa-link)
 
 <br><br>
