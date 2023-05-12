@@ -36,8 +36,10 @@ Manoa Link is an innovative web platform designed to bring students, job seekers
 <br>
 Manoa Link has three user roles: students, company users, and admins. Each role has its own unique features and pages to cater to their specific needs.
 <br><br>
+
 # Key Features
-  <br><br>
+
+<br><br>
 ## 1. User-friendly Registration
   
 Manoa Link provides an easy registration process for students/job seekers (hirees) and organizations, ensuring a seamless onboarding experience.
