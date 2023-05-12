@@ -20,7 +20,7 @@ Github Repo Url : [Github](https://github.com/uhmanoalink/manoa-link)
 
 Website Introduction Url : [Project Introduction Website](https://uhmanoalink.github.io/)
 
-Website Url: [Manoa Link](https://github.com/uhmanoalink/manoa-link)
+Website Url: [Manoa Link](manoalink.site)
 
 <br><br>
 <div class="text-center p-4">
