@@ -7,6 +7,9 @@ date: 2023-05-09
 published: true
 labels:
   - Learning
+  - Team Project
+  - Web Development
+  - Computer Science
 ---
 # Insights Gained from a Comprehensive Software Engineering Experience
 <br>
