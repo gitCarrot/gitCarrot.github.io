@@ -14,7 +14,12 @@ summary: "Manoa Link is an innovative web platform designed to bring students, j
 ---
 <br><br>
 
-# Introduction
+# Manoa Link Team Project
+
+Github Repo Url : [Github](https://github.com/uhmanoalink/manoa-link)
+Website Introduction Url : [Project Introduction Website](https://uhmanoalink.github.io/)
+Website Url: [Manoa Link](https://github.com/uhmanoalink/manoa-link)
+
 <br><br>
 <div class="text-center p-4">
   <img width="1000px" src="../img/firstpage.png" >
@@ -28,16 +33,11 @@ Manoa Link is an innovative web platform designed to bring students, job seekers
 <br><br>
 
 # User Roles
-
-<br><br>
-
-Manoa Link has three user roles: students, company users, and admins. Each role has its own unique features and pages to cater to their specific needs.
 <br>
-
+Manoa Link has three user roles: students, company users, and admins. Each role has its own unique features and pages to cater to their specific needs.
+<br><br>
 # Key Features
-  
   <br><br>
-
 ## 1. User-friendly Registration
   
 Manoa Link provides an easy registration process for students/job seekers (hirees) and organizations, ensuring a seamless onboarding experience.
@@ -46,9 +46,7 @@ Manoa Link provides an easy registration process for students/job seekers (hiree
 ## 2. Tailored Company and Student Views
   
 The platform offers separate interfaces for companies and students, allowing them to manage listings, events, and applicants, or explore job opportunities and attend industry events, respectively.
-  
 <br>
-  
 ## 3. Comprehensive Company Listings
 Students can search through extensive company listings, filter by tags, and save their favorite organizations for future reference.
 <br>
@@ -146,4 +144,3 @@ Conclusion
 
 Manoa Link is a comprehensive platform that simplifies the process of connecting students and companies, streamlining job searching and event attendance. With tailored features and pages for each user role, Manoa Link fosters growth and creates meaningful connections, paving the way for successful careers and thriving organizations.
 
-Repo Url : [Manoa Link](https://github.com/uhmanoalink/manoa-link)
