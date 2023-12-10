@@ -57,7 +57,6 @@ Our weekly meetings on Mondays were dedicated to meticulous code reviews. These 
 <div class="text-center p-4">
   <img width="500px" src="../img/Balance.jpg" >
 </div>
-<br>
 One of the most challenging aspects of this project was balancing it with other academic responsibilities. The pace of progress often conflicted with our individual academic schedules. Despite these challenges, it was fulfilling to witness the team's ability to meet each milestone, demonstrating our commitment and ability to adapt. This experience highlighted the critical skills of time management and prioritization, essential in both academic and professional settings.
 
 
