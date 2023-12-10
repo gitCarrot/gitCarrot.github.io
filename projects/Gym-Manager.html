@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Gym Manager | Honggun Jeon | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/gitCarrot.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Honggun Jeon | Professional Portfolio">
+    <meta property="og:url" content="https://gitCarrot.github.io/projects/Gym-Manager.html">
+    <meta property="og:title" content="Gym Manager | Honggun Jeon | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/gitCarrot.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/bitter.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Gym Manager | Honggun Jeon | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Honggun Jeon</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Gym Manager</h1>
+ <div class="text-center p-4">
+  <img width="400px" src="../img/gym-manager1.jpg" />
+  <img width="400px" src="../img/gym-manager2.jpg" />
+</div>
+<p><br /><br /></p>
+
+<p>The Gym manager project is a spring batch-based project. The reason for using spring based is that it is a management field that collects and processes the jobs across the board rather than real-time processing. This is because spring batch is useful for payment settlement tasks, sending advertising messages at reservation times, building data for operation, and model learning tasks that require large amounts of data.
+<br /></p>
+
+<p>Design which steps to configure the job through jobrepository in the spring batch. It is a function related to the pass required when guests start or use the gym, an alarm sending function for new events or announcements, a deduction of personal training pass through asynchronous processing, and a statistical data reporter generation function for members’ information. Also use docker-compose as MySql container.
+<br /></p>
+
+<p>Function Implemented:</p>
+<ul>
+  <li>Message for new events or announcements on the gym</li>
+  <li>Managing gym pass and the tickets for personal training</li>
+  <li>
+    <h2 id="bulky-pass-using-bulk-processing-working-on">Bulky Pass using bulk processing (Working on)</h2>
+  </li>
+  <li>statistical data reporter generator handling huge data</li>
+  <li>managing payments (update soon)</li>
+</ul>
+
+<p>Used Stacks:</p>
+<ul>
+  <li>Spring Boot 2.7.3</li>
+  <li>Spring Batch</li>
+  <li>JPA</li>
+  <li>MySql</li>
+  <li>Docker
+<br /><br /></li>
+</ul>
+
+<div class="text-center p-4">
+  <img width="500px" src="../img/gym-manager-diagram.jpg" />
+</div>
+
+<p><br /><br /><br /></p>
+
+<p>Repo Url : <a href="https://github.com/gitCarrot/gym-manager">Gym-manager-batch</a></p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
