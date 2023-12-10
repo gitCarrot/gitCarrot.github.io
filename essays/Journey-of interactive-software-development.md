@@ -30,7 +30,7 @@ The essence of our project was to enhance the user interface of all pages, makin
   <img width="500px" src="../img/Team.jpg" >
 </div>
 <br>
-One of the significant challenges we faced was effective collaboration. The progression of our project heavily depended on the leadership provided during team meetings. There were instances where the lack of proactive leadership hampered our development process. Additionally, my personal contribution was occasionally hindered by errors encountered during library migration and code refactoring.
+Collaborating in a team of seven brought its unique set of challenges. One of the primary hurdles was maintaining consistent progress, which heavily depended on the leadership exhibited in each team meeting. There were instances where a lack of decisive leadership impacted the team's efficiency. Personally, I faced challenges in contributing to the project due to technical issues encountered during the migration of libraries and the refactoring of code. This aspect of the project underscored the importance of effective communication, problem-solving, and adaptability in a team setting.
 
 ## Learning and Development
 
@@ -40,24 +40,28 @@ One of the significant challenges we faced was effective collaboration. The prog
 <br>
 A notable learning experience for me was the creation of a button for database dumping. This feature was designed to remove specific or all collections, including slugs. Implementing this required a deep understanding of the pre-existing Meteor API, along with the intricate relationships and flows between various API files. This task underscored the importance of comprehensive knowledge in software development.
 
-## Code Review and Progress
+## Technical Learning and Skill Development
+A particularly enlightening aspect of the project was developing a feature for database dumping. This required not only a theoretical understanding of how to remove specific or all collections, including slugs, but also a practical application of this knowledge. To successfully implement this feature, a comprehensive understanding of the pre-existing Meteor API was necessary. This task highlighted the intricate nature of software development where understanding legacy code and API interactions is crucial.
+
+## Regular Code Reviews and Progress Tracking
 
 <div class="text-center p-4">
   <img width="500px" src="../img/coding.jpg" >
 </div>
 <br>
-Our weekly meetings on Mondays were dedicated to code reviews. We meticulously examined specific files that needed migration and modification. These sessions proved invaluable for those tasked with refining the reviewed pages, providing clear guidelines on necessary fixes and UI design changes.
+
+Our weekly meetings on Mondays were dedicated to meticulous code reviews. These sessions involved examining specific files slated for migration and modification. They proved to be extremely beneficial, especially for those tasked with working on the reviewed pages afterward. This structured approach provided clear direction on the necessary fixes and UI design alterations.
 
 ## Balancing Academics and Project Work
 
 <div class="text-center p-4">
-  <img width="500px" src="../img/Balance.jfif" >
+  <img width="500px" src="../img/Balance.jpg" >
 </div>
 <br>
-Juggling this project with other academic responsibilities was a challenging yet rewarding experience. Although the pace of our progress was sometimes slower than desired due to academic pressures, it was gratifying to see our team meet each milestone. This aspect of the project highlighted the importance of time management and prioritization in a real-world software development environment.
+One of the most challenging aspects of this project was balancing it with other academic responsibilities. The pace of progress often conflicted with our individual academic schedules. Despite these challenges, it was fulfilling to witness the team's ability to meet each milestone, demonstrating our commitment and ability to adapt. This experience highlighted the critical skills of time management and prioritization, essential in both academic and professional settings.
+
 
 ## Conclusion
-<br><br>
-In conclusion, this Software Engineering class has been a journey of growth, teamwork, and practical learning. The challenges faced and the skills acquired are integral to my development as a software engineer. This experience has not only improved my technical abilities but also enriched my understanding of effective teamwork and project management in the field of software development.
+In conclusion, my experience in this Software Engineering class has been a comprehensive journey of growth, encompassing technical skill development, teamwork, and project management. The challenges faced, and the lessons learned go beyond mere academic achievement; they are integral to my development as a future software engineer. This course has not only enhanced my technical abilities but also provided a deeper insight into the nuances of effective teamwork and the complexities of managing large-scale software projects.
 
 
